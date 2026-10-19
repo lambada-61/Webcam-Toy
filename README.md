@@ -205,4 +205,4 @@ Webcam Toy is the full free version available for download, offering all feature
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-19 20:48:33 UTC
+**Last updated:** 2026-10-19 23:59:56 UTC
